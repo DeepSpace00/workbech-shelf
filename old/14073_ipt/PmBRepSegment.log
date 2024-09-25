@@ -1,0 +1,47 @@
+[2019]
+(0001): AcisEntityContainer 
+	wrappers[0000] = (0003): AsmEntityWrapper indexDC=0002 u8_0=00  wrapperIdx=0000
+		asm = (0016): ASM u32_0=031D schema=002A fmt="ASM BinaryFile4" SAT=<Acis.AcisReader object at 0x7f0600bc3a60> nameMatches={8:[-985 NMx_Generated_Brep_tag-NMx_Brep_Name_tag-NMx_Brep_tag-NamingMatching-attrib $-1 -1 $-1 $-1 $784 42 1 360 -1 8 0 2 #,-1031 NMx_Generated_Brep_tag-NMx_Brep_Name_tag-NMx_Brep_tag-NamingMatching-attrib $-1 -1 $-1 $-1 $830 42 1 441 -1 8 0 2 #,-1817 NMx_Generated_Brep_tag-NMx_Brep_Name_tag-NMx_Brep_tag-NamingMatching-attrib $-1 -1 $-1 $-1 $1646 42 1 401 -1 8 0 2 #,-1935 NMx_Generated_Brep_tag-NMx_Brep_Name_tag-NMx_Brep_tag-NamingMatching-attrib $-1 -1 $-1 $-1 $1792 42 1 320 -1 8 0 2 #],5:[-1157 NMx_Generated_Brep_tag-NMx_Brep_Name_tag-NMx_Brep_tag-NamingMatching-attrib $-1 -1 $-1 $-1 $965 42 1 441 -1 5 0 2 #,-1164 NMx_Generated_Brep_tag-NMx_Brep_Name_tag-NMx_Brep_tag-NamingMatching-attrib $-1 -1 $-1 $-1 $973 42 1 360 -1 5 0 2 #],6:[-1182 NMx_Generated_Brep_tag-NMx_Brep_Name_tag-NMx_Brep_tag-NamingMatching-attrib $-1 -1 $-1 $-1 $986 42 1 360 -1 6 0 1 #,-1223 NMx_Generated_Brep_tag-NMx_Brep_Name_tag-NMx_Brep_tag-NamingMatching-attrib $-1 -1 $-1 $-1 $1032 42 1 441 -1 6 0 1 #,-1819 NMx_Generated_Brep_tag-NMx_Brep_Name_tag-NMx_Brep_tag-NamingMatching-attrib $-1 -1 $-1 $-1 $1648 42 1 401 -1 6 0 1 #,-1937 NMx_Generated_Brep_tag-NMx_Brep_Name_tag-NMx_Brep_tag-NamingMatching-attrib $-1 -1 $-1 $-1 $1794 42 1 320 -1 6 0 1 #],7:[-1218 NMx_Generated_Brep_tag-NMx_Brep_Name_tag-NMx_Brep_tag-NamingMatching-attrib $-1 -1 $-1 $-1 $1028 42 1 441 -1 7 0 2 #,-1367 NMx_Generated_Brep_tag-NMx_Brep_Name_tag-NMx_Brep_tag-NamingMatching-attrib $-1 -1 $-1 $-1 $1163 42 1 360 -1 7 0 2 #,-1647 NMx_Generated_Brep_tag-NMx_Brep_Name_tag-NMx_Brep_tag-NamingMatching-attrib $-1 -1 $-1 $-1 $1471 42 1 401 -1 7 0 2 #,-1793 NMx_Generated_Brep_tag-NMx_Brep_Name_tag-NMx_Brep_tag-NamingMatching-attrib $-1 -1 $-1 $-1 $1621 42 1 320 -1 7 0 2 #],4:[-1360 NMx_Generated_Brep_tag-NMx_Brep_Name_tag-NMx_Brep_tag-NamingMatching-attrib $-1 -1 $-1 $-1 $1158 42 1 441 -1 4 0 1 #,-1369 NMx_Generated_Brep_tag-NMx_Brep_Name_tag-NMx_Brep_tag-NamingMatching-attrib $-1 -1 $-1 $-1 $1165 42 1 360 -1 4 0 1 #],3:[-1476 NMx_Generated_Brep_tag-NMx_Brep_Name_tag-NMx_Brep_tag-NamingMatching-attrib $-1 -1 $-1 $-1 $1298 42 1 401 -1 3 0 2 #,-1633 NMx_Generated_Brep_tag-NMx_Brep_Name_tag-NMx_Brep_tag-NamingMatching-attrib $-1 -1 $-1 $-1 $1458 42 1 320 -1 3 0 2 #],1:[-1654 NMx_Generated_Brep_tag-NMx_Brep_Name_tag-NMx_Brep_tag-NamingMatching-attrib $-1 -1 $-1 $-1 $1477 42 1 401 -1 1 0 1 #,-1809 NMx_Generated_Brep_tag-NMx_Brep_Name_tag-NMx_Brep_tag-NamingMatching-attrib $-1 -1 $-1 $-1 $1634 42 1 320 -1 1 0 1 #]} dcAttributes={795:<Acis.IndexMappings object at 0x7f0600f46aa0>,755:<Acis.IndexMappings object at 0x7f0600f4fc40>,279:<Acis.IndexMappings object at 0x7f0600f4ebf0>,715:<Acis.IndexMappings object at 0x7f0600f66f50>,151:<Acis.IndexMappings object at 0x7f0600f65660>,65:<Acis.IndexMappings object at 0x7f0600f085b0>,111:<Acis.IndexMappings object at 0x7f0600f0bf40>,441:<Acis.IndexMappings object at 0x7f0600f1ecb0>,227:<Acis.IndexMappings object at 0x7f0600f89db0>,477:<Acis.IndexMappings object at 0x7f0600f888e0>,191:<Acis.IndexMappings object at 0x7f0600fd1b40>,360:<Acis.IndexMappings object at 0x7f0600fd01f0>,675:<Acis.IndexMappings object at 0x7f0600f771c0>,635:<Acis.IndexMappings object at 0x7f0600f6d330>,401:<Acis.IndexMappings object at 0x7f0600b418d0>,320:<Acis.IndexMappings object at 0x7f0600b43f70>,599:<Acis.IndexMappings object at 0x7f0600b8e4d0>,538:<Acis.IndexMappings object at 0x7f0600b95cf0>} selectedKey=80000016 delta_state=20 
+			history = (0017): SatHistory s32_0=0  numbers=(2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20)  
+				delta_states[0002] = (0018): 09780457 data_set=2 
+				delta_states[0003] = (0019): 09780457 data_set=3 
+				delta_states[0004] = (001A): 09780457 data_set=4 
+				delta_states[0005] = (001B): 09780457 data_set=5 
+				delta_states[0006] = (001C): 09780457 data_set=6 
+				delta_states[0007] = (001D): 09780457 data_set=7 
+				delta_states[0008] = (001E): 09780457 data_set=8 
+				delta_states[0009] = (001F): 09780457 data_set=9 
+				delta_states[000A] = (0020): 09780457 data_set=10 
+				delta_states[000B] = (0021): 09780457 data_set=11 
+				delta_states[000C] = (0022): 09780457 data_set=12 
+				delta_states[000D] = (0023): 09780457 data_set=13 
+				delta_states[000E] = (0024): 09780457 data_set=14 
+				delta_states[000F] = (0025): 09780457 data_set=15 
+				delta_states[0010] = (0026): 09780457 data_set=16 
+				delta_states[0011] = (0027): 09780457 data_set=17 
+				delta_states[0012] = (0028): 09780457 data_set=18 
+				delta_states[0013] = (0029): 09780457 data_set=19 
+				delta_states[0014] = (002A): 09780457 data_set=20 
+				ref_1 = (002B): 09780457 data_set=-1 
+(0002): BrepComponent  length="mm" angle="deg"
+	components[0041] = (0004): 66085B35dcCreatorIdx=0041 u16_0=102 
+	components[006F] = (0005): ABD292FDdcCreatorIdx=006F u16_0=102  aX=(01 00 00 00 00 00 08 00 02 00 00 00 20 9E 99 99 99 99 C9 3F 9A 99 99 99 99 99 01 40 00 00 00 00 00 00 00 00 04 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 02 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00)
+	components[0097] = (0006): 66085B35dcCreatorIdx=0097 u16_0=102 
+	components[00BF] = (0007): 66085B35dcCreatorIdx=00BF u16_0=102 
+	components[00E3] = (0008): 66085B35dcCreatorIdx=00E3 u16_0=102 
+	components[0117] = (0009): 66085B35dcCreatorIdx=0117 u16_0=102 
+	components[0140] = (000A): 66085B35dcCreatorIdx=0140 u16_0=102 
+	components[0168] = (000B): 66085B35dcCreatorIdx=0168 u16_0=102 
+	components[0191] = (000C): 66085B35dcCreatorIdx=0191 u16_0=102 
+	components[01B9] = (000D): 66085B35dcCreatorIdx=01B9 u16_0=102 
+	components[01DD] = (000E): 66085B35dcCreatorIdx=01DD u16_0=102 
+	components[021A] = (000F): ABD292FDdcCreatorIdx=021A u16_0=102  aX=(01 00 00 00 00 00 09 00 02 00 00 00 F6 E6 FF FF FF FF CF 3F B8 1E 85 EB 51 B8 AE 3F 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 02 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00)
+	components[0257] = (0010): ABD292FDdcCreatorIdx=0257 u16_0=102  aX=(01 00 00 00 00 00 0C 00 02 00 00 00 01 E7 FF FF FF FF CF 3F B8 1E 85 EB 51 B8 AE 3F 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 02 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00)
+	components[027B] = (0011): 66085B35dcCreatorIdx=027B u16_0=102 
+	components[02A3] = (0012): 66085B35dcCreatorIdx=02A3 u16_0=102 
+	components[02CB] = (0013): 66085B35dcCreatorIdx=02CB u16_0=102 
+	components[02F3] = (0014): 66085B35dcCreatorIdx=02F3 u16_0=102 
+	components[031B] = (0015): 66085B35dcCreatorIdx=031B u16_0=102 
+(002C): AcisEntityContainer 
+(002D): FaceMergeData s32_0=0   lst1=[] lst2=[] lst3=[]
+	nameTable = (002E): NameTable  lastIdx=0000 
